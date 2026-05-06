@@ -1,0 +1,4 @@
+/node_modules
+.env
+profileIndex.js
+profiles.json
